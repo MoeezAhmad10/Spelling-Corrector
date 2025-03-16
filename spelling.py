@@ -119,7 +119,7 @@ if user_input:
         corrected = correction(user_input)
 
     # **Output with Animation & Styling**
-    st.success(f"✅ **Corrected: kjh** `{corrected}`")
+    st.success(f"✅ **Corrected:** `{corrected}`")
     st.info(f"📝 **Entered:** `{user_input}`")
     
     prev_word = corrected
