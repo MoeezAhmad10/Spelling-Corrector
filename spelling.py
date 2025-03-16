@@ -125,4 +125,4 @@ if user_input:
     prev_word = corrected
 
 # **Footer**
-st.markdown("<br><center>💡 Develop by MOEEZ AHMAD using Streamlit</center>", unsafe_allow_html=True)
+st.markdown("<br><center>💡 Developed by MOEEZ AHMAD using Streamlit</center>", unsafe_allow_html=True)
